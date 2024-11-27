@@ -1,0 +1,27 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 500px;
+}
+.b1{
+    height: 300px;
+    background-color: gainsboro;
+    border-radius: 10px;
+    width: fit-content;
+}
+.b2{
+    height: 300px;
+    background-color: gainsboro;
+    border-radius: 10px;
+    width: fit-content;
+}
+.main .b1:hover{
+     transform: scale(1.1);
+}
+.main{
+    padding: 20px;
+    margin: 20px;
+}
